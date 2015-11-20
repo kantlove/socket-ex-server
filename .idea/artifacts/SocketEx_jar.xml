@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="SocketEx:jar">
-    <output-path>$PROJECT_DIR$/../SocketEx/out/artifacts</output-path>
-    <root id="archive" name="SocketEx.jar">
-      <element id="module-output" name="SocketEx" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../SocketEx/dependencies/gson-2.4.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
